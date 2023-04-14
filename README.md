@@ -19,4 +19,4 @@ Example Input/Output:
     Output: 2 [100 102]
 
 ## Conclusion
-At the end of the project, I tried my program with different sorting algorithms that I wrote myself, in order to see the rum time difference.
+At the end of the project, I tried my program with different sorting algorithms that I wrote myself, in order to see the run time difference.
